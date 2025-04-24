@@ -1,0 +1,44 @@
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\akarsu internet.exe.config
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\akarsu internet.exe
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\akarsu internet.pdb
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu internet.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu_internet.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu internet.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu internet.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu i.DD43354F.Up2Date
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu internet.exe
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu internet.pdb
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu_internet.frmMasaKapat.resources
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\..mdf
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\bin\Debug\._log.ldf
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu_internet.frmKullanici.resources
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu_internet.frmsatıs.resources
+C:\Users\ADMIN\Desktop\akarsu internet\akarsu internet\obj\Debug\akarsu_internet.frmsatislistele.resources
